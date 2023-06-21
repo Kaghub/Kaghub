@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaghub (Kannan Adimoolam), an ET project manager with Agile Scrum Master experience 
+- 👋 Hi, I’m @Kaghub (Kannan Adimoolam), an ET Project Manager with Agile Scrum Master experience 
 - 👀 I’m interested in ...learning about GitHub and it's workflow integration with Jira 
 - 🌱 I’m currently learning ...to support code deployments in GitHub for the Galliard application dev team 
 - 💞️ I’m looking to collaborate on ...challenging ET projects and initiatves 
